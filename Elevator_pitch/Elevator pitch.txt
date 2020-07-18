@@ -1,0 +1,23 @@
+
+
+
+Dudas:
+-Estaria bien cuidado del ambiente como care of enviroment?
+-Cuando hablo sobre el fortalecimiento de mis habilidades tengo 2 maneras de hacer que exibo en estos 2 borradores
+no se cual esta bien, o en todo caso cual seria mejor
+-Dudo sobre como seria el cierre siento que en los ejemplos es muy espontaneo, si bien tiene que ser muy breve y consiso
+-En terminos generales como estan ambos borradores? me recomendas agregar algun punto mas? Es poco con respecto a la informacion que doy sobre mi? 
+
+
+
+-Elevator pich 1
+Hi, my name is Patricio Sosa. I'm currently a sophomore student attending BA University in Buenos Aires, Argentina. In college I plan on majoring on develoment of applications (apps), in fact I working on a personal project to develop an app about care of enviroment (cuidado del ambiente) as a subject. Over the last year I've been strengthening my skills on Data Structs and expanding my knowledge about programming language....
+I hope when I graduate can manage my own progect team developing computer applications for simple business solutions...
+
+
+
+-Elevator pich 2
+Hi, my name is Patricio Sosa. I'm currently a sophomore student attending BA University in Buenos Aires, Argentina. In college I plan on majoring on develoment of applications (apps). Over the last year I've been strengthening my skills on Data Structs and expanding my knowledge about programming language in fact I working on a personal project to develop an app about care of enviroment (cuidado del ambiente) as a subject...
+Next summer I'm hoping to get an intership learning more about optimization of application....
+I enjoy developing computer applications for simple business solutions.I hope to become a computer programmer when I graduate
+ and manage a project team 
