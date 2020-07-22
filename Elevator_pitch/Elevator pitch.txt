@@ -21,3 +21,14 @@ Hi, my name is Patricio Sosa. I'm currently a sophomore student attending BA Uni
 Next summer I'm hoping to get an intership learning more about optimization of application....
 I enjoy developing computer applications for simple business solutions.I hope to become a computer programmer when I graduate
  and manage a project team 
+
+
+
+-Elevator pich 2.0
+Receptor: Recruiter
+A. Who Are You?
+Hi, my name is Patricio Sosa. I'm currently a junior and am studying Computer Science. In college I plan to major in app development and formal software specification. 
+B. What Makes You Unique?
+Over the last year I've been strengthening my skills on Data Structures and expanding my knowledge about programming language, in fact I working on a personal project to develop an app about care of enviroment.
+C. What Are Your Goals?
+Next summer I’m looking forward to getting an internship to learn more about optimization of applications.I enjoy developing computer applications for simple business solutions.I hope to become a computer programmer and manage a project team
